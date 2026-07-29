@@ -74,23 +74,19 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=02TuhinBera&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuhin-Bera&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02TuhinBera&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin-Bera&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 Contribution Graph
 
 <p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tuhin-Bera/Tuhin-Bera/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tuhin-Bera/Tuhin-Bera/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tuhin-Bera/Tuhin-Bera/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuhin-Bera&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -100,7 +96,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=02TuhinBera&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Tuhin-Bera&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -110,7 +106,7 @@
 
 <p align="center">
 
-<a href="https://github.com/02TuhinBera">
+<a href="https://github.com/Tuhin-Bera">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -146,7 +142,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=02TuhinBera&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Tuhin-Bera&style=for-the-badge&color=blue"/>
 
 </p>
 
