@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:00F7FF&height=200&section=header&text=Tuhin%20Bera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Engineer%20|%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:00F7FF&height=180&section=header&text=Tuhin%20Bera&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Engineer%20|%20Backend%20Developer&descAlignY=55&descSize=15" width="100%"/>
 
 <h3 align="center">
 🚀 Software Engineer | 🤖 Machine Learning Engineer | ⚡ Backend Developer | 🧠 Generative AI Enthusiast
