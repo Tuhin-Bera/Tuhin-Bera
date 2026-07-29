@@ -1,46 +1,49 @@
-<h1 align="center">
-Hi 👋, I'm <span style="color:#4FC3F7;">Tuhin Bera</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Tuhin Bera</h1>
 
 <h3 align="center">
-🚀 Software Engineer | 🤖 Machine Learning Engineer | ⚡ Backend Developer | 🧠 Generative AI Enthusiast
+Software Engineer • Backend Developer • Machine Learning Engineer • Generative AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer+(FastAPI+%26+Django);Machine+Learning+%26+Deep+Learning;Generative+AI+Developer;Computer+Vision+Developer;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Machine+Learning+Engineer;Generative+AI+Developer;FastAPI+%7C+Django+%7C+Python;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=02TuhinBera&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science & Engineering Undergraduate
+🎓 Computer Science Engineering Student
 
-💻 Passionate about building
+💡 Passionate about building intelligent software using Machine Learning, Generative AI and Backend Technologies.
 
-- 🤖 AI Applications
-- 🧠 Machine Learning Models
-- ⚡ FastAPI Backends
-- 🌐 Django Applications
-- 👁 Computer Vision Systems
-- 📊 Data Analytics Dashboards
-- 🔥 Generative AI Solutions
-
-🌱 Currently Learning
+🚀 Current Focus
 
 - FastAPI
-- System Design
+- Django
+- Machine Learning
+- Computer Vision
+- Generative AI
 - Docker
-- AWS Cloud
-- LangChain
-- RAG Systems
+- AWS
+
+📚 Currently Learning
+
+- System Design
 - Kubernetes
+- RAG Applications
+- LLM Engineering
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-## 👨‍💻 Languages
+### Languages
 
 <p>
 
@@ -48,9 +51,7 @@ Hi 👋, I'm <span style="color:#4FC3F7;">Tuhin Bera</span>
 
 </p>
 
----
-
-## ⚙ Backend Development
+### Backend
 
 <p>
 
@@ -58,9 +59,7 @@ Hi 👋, I'm <span style="color:#4FC3F7;">Tuhin Bera</span>
 
 </p>
 
----
-
-## 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p>
 
@@ -76,9 +75,7 @@ Hi 👋, I'm <span style="color:#4FC3F7;">Tuhin Bera</span>
 
 </p>
 
----
-
-## 🛢 Databases
+### Database
 
 <p>
 
@@ -86,9 +83,7 @@ Hi 👋, I'm <span style="color:#4FC3F7;">Tuhin Bera</span>
 
 </p>
 
----
-
-## ⚒ Tools
+### Tools
 
 <p>
 
@@ -98,57 +93,13 @@ Hi 👋, I'm <span style="color:#4FC3F7;">Tuhin Bera</span>
 
 ---
 
-# 🌟 Featured Projects
-
-## 🤖 AI Chatbot (RAG)
-
-LLM-powered chatbot using semantic search, vector databases and Retrieval-Augmented Generation.
-
----
-
-## 📄 OCR Intelligent Document Processing
-
-Automated document understanding using OCR and Computer Vision.
-
----
-
-## 💬 StudyBud
-
-Full-stack Django discussion platform with
-
-- Authentication
-- CRUD
-- User Profiles
-- Responsive UI
-
----
-
-## 📊 Power BI Dashboards
-
-Business Intelligence dashboards for
-
-- Netflix Analysis
-- Sales Analysis
-- Data Visualization
-
----
-
-## 👁 Computer Vision Projects
-
-- Face Detection
-- Object Tracking
-- Virtual Painter
-- Video Processing
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=02TuhinBera&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=02TuhinBera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02TuhinBera&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02TuhinBera&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -158,49 +109,7 @@ Business Intelligence dashboards for
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=02TuhinBera&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=02TuhinBera&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=02TuhinBera&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💻 Competitive Programming
-
-<p align="center">
-
-<a href="https://leetcode.com/your-leetcode-username/">
-<img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Nunito"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=02TuhinBera&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -214,11 +123,11 @@ Business Intelligence dashboards for
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/tuhin-bera-a9785b269/">
+<a href="https://www.linkedin.com/in/tuhin-bera-a9785b269/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:tuhinbera70@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -226,26 +135,8 @@ Business Intelligence dashboards for
 
 ---
 
-# 💡 Quote
+<h3 align="center">
 
-<p align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
 
-> "First, solve the problem. Then, write the code."
-
-— John Johnson
-
-</p>
-
----
-
-<h2 align="center">
-
-⭐ If you like my work, consider giving a ⭐ to my repositories!
-
-</h2>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=02TuhinBera&style=for-the-badge&color=blue"/>
-
-</p>
+</h3>
