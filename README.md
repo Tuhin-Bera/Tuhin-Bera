@@ -110,11 +110,11 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/tuhin-bera-a9785b269/">
+<a href="https://www.linkedin.com/in/tuhin-bera-a82a39306/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:tuhinbera70@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
