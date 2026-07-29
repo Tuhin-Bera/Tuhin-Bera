@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer+(FastAPI+%26+Django);Machine+Learning+%26+Deep+Learning;Generative+AI+Developer;Computer+Vision+Developer;Always+Learning+New+Technologies+🚀" />
+<b>Backend Developer (FastAPI & Django) · Machine Learning & Deep Learning · Generative AI Developer · Computer Vision Developer</b>
 </p>
 
 ---
