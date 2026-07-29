@@ -1,65 +1,48 @@
-<h1 align="center">Hi 👋, I'm Tuhin Bera</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:00F7FF&height=200&section=header&text=Tuhin%20Bera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20ML%20Engineer%20|%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <h3 align="center">
-Software Engineer • Backend Developer • Machine Learning Engineer • Generative AI Enthusiast
+🚀 Software Engineer | 🤖 Machine Learning Engineer | ⚡ Backend Developer | 🧠 Generative AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Machine+Learning+Engineer;Generative+AI+Developer;FastAPI+%7C+Django+%7C+Python;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=02TuhinBera&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer+(FastAPI+%26+Django);Machine+Learning+%26+Deep+Learning;Generative+AI+Developer;Computer+Vision+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 Computer Science Engineering Student
+🎓 Computer Science & Engineering Undergraduate
 
-💡 Passionate about building intelligent software using Machine Learning, Generative AI and Backend Technologies.
+💻 Passionate about building
 
-🚀 Current Focus
+- 🤖 AI Applications
+- 🧠 Machine Learning Models
+- ⚡ FastAPI Backends
+- 🌐 Django Applications
+- 👁 Computer Vision Systems
+- 📊 Data Analytics Dashboards
+- 🔥 Generative AI Solutions
+
+🌱 Currently Learning
 
 - FastAPI
-- Django
-- Machine Learning
-- Computer Vision
-- Generative AI
-- Docker
-- AWS
-
-📚 Currently Learning
-
 - System Design
+- Docker
+- AWS Cloud
+- LangChain
+- RAG Systems
 - Kubernetes
-- RAG Applications
-- LLM Engineering
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql,fastapi,django,flask,git,docker,linux,vscode,github&perline=8" />
 </p>
 
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
-
-</p>
-
-### AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <p>
 
@@ -75,7 +58,9 @@ Software Engineer • Backend Developer • Machine Learning Engineer • Genera
 
 </p>
 
-### Database
+---
+
+## 🛢 Databases
 
 <p>
 
@@ -83,23 +68,15 @@ Software Engineer • Backend Developer • Machine Learning Engineer • Genera
 
 </p>
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github"/>
-
-</p>
-
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=02TuhinBera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=02TuhinBera&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02TuhinBera&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=02TuhinBera&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,7 +86,7 @@ Software Engineer • Backend Developer • Machine Learning Engineer • Genera
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=02TuhinBera&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=02TuhinBera&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -123,11 +100,11 @@ Software Engineer • Backend Developer • Machine Learning Engineer • Genera
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tuhin-bera-a9785b269/">
+<a href="https://linkedin.com/in/tuhin-bera-a9785b269/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:tuhinbera70@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -135,8 +112,28 @@ Software Engineer • Backend Developer • Machine Learning Engineer • Genera
 
 ---
 
-<h3 align="center">
+# 💡 Quote
 
-⭐ Thanks for visiting my GitHub Profile ⭐
+<p align="center">
 
-</h3>
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=02TuhinBera&style=for-the-badge&color=blue"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4FC3F7&height=100&section=footer" width="100%"/>
